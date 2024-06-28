@@ -1,6 +1,6 @@
 # A Two-step Minimax Q-learning Algorithm
 
-This repository contains the code for the new two-step algorithm proposed for solving two-player zero-sum stochastic games. 
+This repository contains the code for the new two-step algorithm proposed for solving two-player zero-sum stochastic games. This repository can be utilized to reproduce the results provided in the paper titled "A Two-step Minimax Q-learning algorithm for two-player zero-sum \textcolor{red}{Markov} games."
 
 Requirements: nashpy package
 
